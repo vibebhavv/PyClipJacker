@@ -21,7 +21,7 @@ This project is intended to raise awareness about clipboard hijacking attacks an
 ```bash
     pip install pyperclip
     git clone https://github.com/vibebhavv/PyClipJacker
-    cd clipboard-clipper-demo
+    cd PyClipJacker
 ```
 
 ## Usage
