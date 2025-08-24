@@ -38,9 +38,9 @@ The copied address will be replaced with the demo address defined in the script.
 
 ## Example
 
-You copy: **1BoatSLRHtKNngkdXEeobR76b53LETtpyT**
+You copy: `**1BoatSLRHtKNngkdXEeobR76b53LETtpyT**`
 
-Clipboard changes to: **1DemoFakeAddressABCDE1234567890xyz**
+Clipboard changes to: `**1DemoFakeAddressABCDE1234567890xyz**`
 
 ## Educational Value
 
